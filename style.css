@@ -1,0 +1,118 @@
+body{
+	background-image: url('abcsd.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-size: cover;
+    filter: blur('50px');
+}
+h1{
+	text-align: center;
+	color: #F43B86;
+	margin: 30px 50px;
+	font-size: 70px;
+	border-color: black;
+}
+h2{
+	text-align: center;
+	color: #FF4C29;
+	margin: 30px 50px;
+	font-size: 20px;
+	border-color: black;
+}
+h6{
+	text-align: center;
+	color: #B42B51;
+	margin: 30px 50px;
+	font-size: 20px;
+	border-color: black;
+}
+h3{
+	text-align: center;
+	color: #BD4B4B;
+	margin: 30px 50px;
+	font-size: 40px;
+	border-color: black;
+	border-width: 10pt;
+}
+.gallery{
+	margin: 10px 50px;
+
+}
+.gallery img {
+	width: 230px;
+	padding: 5px ;
+	filter: grayscale(100%);
+	transition: 1s;
+}
+.gallery img:hover {
+	filter: grayscale(0%);
+	transform: scale(1.1);
+}
+.box1{
+	background-color:Tomato;
+	padding-right: auto;
+	padding-bottom: 50pt;
+	border-color: green;
+	padding-top: 50pt;
+	padding-left: 20pt;
+}
+.box2{
+	background-color:#3cb371;
+	padding-right: auto;
+	padding-bottom: 50pt;
+	border-color: green;
+	padding-top: 50pt;
+	padding-left: 20pt;
+}
+.box3{
+	background-color:#ffa500;
+	padding-right: auto;
+	padding-bottom: 50pt;
+	border-color: green;
+	padding-top: 50pt;
+	padding-left: 20pt;
+}
+.box4{
+	background-color:Violet;
+	padding-right: auto;
+	padding-bottom: 50pt;
+	border-color: green;
+	padding-top: 50pt;
+	padding-left: 20pt;
+}
+.box5{
+	background-color:Tomato;
+	padding-right: auto;
+	padding-bottom: 50pt;
+	border-color: green;
+	padding-top: 50pt;
+	padding-left: 20pt;
+}
+.box6{
+	background-color:#3cb371;
+	padding-right: auto;
+	padding-bottom: 50pt;
+	border-color: green;
+	padding-top: 50pt;
+	padding-left: 20pt;
+}
+.box7{
+	background-color:#ffa500;
+	padding-right: auto;
+	padding-bottom: 50pt;
+	border-color: green;
+	padding-top: 50pt;
+	padding-left: 20pt;
+}
+.box8{
+	background-color:Violet;
+	padding-right: auto;
+	padding-bottom: 50pt;
+	border-color: green;
+	padding-top: 50pt;
+	padding-left: 20pt;
+}
+.abd{
+	background-color: #FDEFEF;
+
+}
